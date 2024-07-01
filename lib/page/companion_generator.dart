@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:ui';
 import 'package:flutter/foundation.dart';
 
 import 'package:flutter/material.dart';
@@ -165,6 +166,7 @@ class _CongratulationPageState extends State<CongratulationPage>
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
                       DropdownButton<String>(
+                        dropdownColor: const Color(0xFF327E89),
                         value: selectedRegion,
                         onChanged: (String? newValue) {
                           setState(() {
@@ -181,8 +183,7 @@ class _CongratulationPageState extends State<CongratulationPage>
                               child: Text(
                                 value,
                                 style: const TextStyle(
-                                  color: Color.fromARGB(255, 0, 0,
-                                      0), // Changer la couleur en blanc
+                                  color: Colors.white, // Changer la couleur en blanc
                                 ),
                               ),
                             ),
@@ -190,6 +191,7 @@ class _CongratulationPageState extends State<CongratulationPage>
                         }).toList(),
                       ),
                       DropdownButton<String>(
+                        dropdownColor: const Color(0xFF327E89),
                         value: selectedQuality,
                         onChanged: (String? newValue) {
                           setState(() {
@@ -206,8 +208,7 @@ class _CongratulationPageState extends State<CongratulationPage>
                               child: Text(
                                 value,
                                 style: const TextStyle(
-                                  color: Color.fromARGB(255, 0, 0,
-                                      0), // Changer la couleur en blanc
+                                  color: Colors.white,// Changer la couleur en blanc
                                 ),
                               ),
                             ),
@@ -225,7 +226,11 @@ class _CongratulationPageState extends State<CongratulationPage>
                         isFinished = true;
                       });
                     } else {
-                      showConfirmationDialog(context);
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => const ThankYouPage()),
+                      );
+                      //showConfirmationDialog(context);
                     }
                   },
                   style: ElevatedButton.styleFrom(
@@ -234,7 +239,8 @@ class _CongratulationPageState extends State<CongratulationPage>
                   ),
                   child: Text(
                     isFinished
-                        ? 'Intéressé(e) par une newsletter ou une formation?'
+                        //? 'Intéressé(e) par une newsletter ou une formation?'
+                        ? 'Terminer la visite'
                         : 'Valider',
                     style: const TextStyle(fontSize: 16),
                   ),

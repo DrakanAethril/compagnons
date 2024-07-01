@@ -27,7 +27,11 @@ class ThankYouPage extends StatelessWidget {
                 padding: EdgeInsets.fromLTRB(20.0, 0.0, 20.0, 0.0),
                 child: Text(
                   'Merci d\'avoir participé à ce quiz. Nous espérons vous revoir au restaurant !',
-                  style: TextStyle(fontSize: 24),
+                  style: TextStyle(
+                    fontSize: 24,
+                    color: Colors.white
+                  ),
+                  
                   textAlign: TextAlign.center,
                 ),
               ),
@@ -44,7 +48,7 @@ class ThankYouPage extends StatelessWidget {
                       WidgetStateProperty.all<Color>(const Color(0xFFEE7203)),
                   foregroundColor: WidgetStateProperty.all<Color>(Colors.white),
                 ),
-                child: const Text('Next'),
+                child: const Text('Recommencer'),
               ),
             ],
           ),

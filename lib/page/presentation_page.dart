@@ -11,7 +11,7 @@ class PresentationPage extends StatelessWidget {
     return Scaffold(
       extendBody: true,
       floatingActionButton: FloatingActionButton(
-        mini: true,
+        //mini: true,
         shape: const CircleBorder(
           
         ),

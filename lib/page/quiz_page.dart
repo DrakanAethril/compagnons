@@ -52,7 +52,7 @@ class _QuizPageState extends State<QuizPage> {
     return Scaffold(
       extendBody: true,
       floatingActionButton: FloatingActionButton(
-        mini: true,
+        //mini: true,
         shape: const CircleBorder(
           
         ),
