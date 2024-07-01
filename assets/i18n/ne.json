@@ -1,0 +1,404 @@
+{
+    "app": {
+        "title": "Companions 87"
+    },
+    "message": {
+        "welcome": "Welcome to the Flutter Translate example app!"
+    },
+    "presentation": {
+        "welcome": "Welcome to the Companions of the Tour de France!",
+        "discover": "Explore the history and tradition of the Companions.",
+        "next": "Next"
+    },
+    "question": {
+        "questions": [
+            {
+                "text": "I am Noémie, I am 24 years old. I started discovering the world of construction by learning the trade of cabinetmaking after obtaining my general baccalaureate. I committed to the Tour de France after completing a CAP in cabinetmaking.",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 1: But what is the Tour de France?",
+                "choiceAnswers": [
+                    "A cycling competition",
+                    "A historical monument",
+                    "A learning journey",
+                    "A spiritual pilgrimage/initiative"
+                ],
+                "correctAnswers": [
+                    "A learning journey"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! The Tour de France is a journey where the future companion changes cities every year.",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 2 : The first city to welcome me was Annecy. I am with about thirty other young people, various trades are represented: carpenter, joiner, cabinetmaker, plumber, baker and the best: joiner! Among these photos, which model was made by a joiner?",
+                "choiceAnswers": [
+                    "assets/img/img20.png",
+                    "assets/img/img18.png",
+                    "assets/img/img21.png",
+                    "assets/img/img19.png"
+                ],
+                "correctImageAnswers": [
+                    "assets/img/img19.png"
+                ],
+                "type": "image",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! The joiner's mission? Creating and repairing wooden furniture, whether antique or modern!",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 3: You will find on the wall this famous postcard. What do I remember from this first year? (Two correct answers)",
+                "choiceAnswers": [
+                    "School life",
+                    "Evenings",
+                    "Family spirit",
+                    "Solidarity"
+                ],
+                "correctAnswers": [
+                    "Family spirit",
+                    "Solidarity"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! The companions are one big family!",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 4: Plumbers also make models. What is the main material of this model? Hint, the Limoges station is covered with it! (Photo)",
+                "choiceAnswers": [
+                    "Iron",
+                    "Lead",
+                    "Copper",
+                    "Gold"
+                ],
+                "correctAnswers": [
+                    "Copper"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! Do you know that copper changes color when oxidized? That's why the station roof is green!",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 5: You can find several works created by Building Painters. One of them represents the emblem of the city of Limoges. Can you recognize it?",
+                "choiceAnswers": [
+                    "assets/img/img17.png",
+                    "assets/img/img16.png",
+                    "assets/img/img15.png",
+                    "assets/img/img14.png"
+                ],
+                "correctImageAnswers": [
+                    "assets/img/img16.png"
+                ],
+                "type": "image",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! This emblem represents the flames of the ovens necessary for the production of porcelain and enamels. Limoges is the capital of the fire arts!",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 6: In your opinion, what is the purpose of this last one?",
+                "choiceAnswers": [
+                    "A gift",
+                    "A masterpiece",
+                    "An attempt to learn",
+                    "A fine"
+                ],
+                "correctAnswers": [
+                    "An attempt to learn"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! Doing the Tour de France is a marathon towards excellence. The young itinerants constantly seek to improve themselves. This is illustrated by the study works.",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 7: What does this masterpiece made by an itinerant Mason represent? (photo)",
+                "choiceAnswers": [
+                    "A dome",
+                    "A rampart",
+                    "A flying buttress",
+                    "A capital"
+                ],
+                "correctAnswers": [
+                    "A flying buttress"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! The flying buttress serves to support the walls from the outside. You can observe them a stone's throw from the museum while walking in the park and contemplating the cathedral.",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 8: I am so fond of this new city that I forget to name it! I prefer to tell about my first lessons there. What is their particularity?",
+                "choiceAnswers": [
+                    "They are in Chinese",
+                    "Uniform is mandatory",
+                    "They are in the evening and on weekends",
+                    "The dunce cap still exists"
+                ],
+                "correctAnswers": [
+                    "They are in the evening and on weekends"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! The itinerants of the Tour de France are professionals who work during the day like any employees. Therefore, improvement classes take place during their rest: in the evenings and on weekends.",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 9: Now here is this model, was it made by a single itinerant?",
+                "choiceAnswers": [
+                    "True",
+                    "False"
+                ],
+                "correctAnswers": [
+                    "False"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! This model has the particularity of having been made by several people. Nowadays, models are mostly made individually.",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 10: In front of you is a work crafted by an itinerant joiner, who do you think it was intended for?",
+                "choiceAnswers": [
+                    "His Mom",
+                    "A teacher",
+                    "The president",
+                    "His company"
+                ],
+                "correctAnswers": [
+                    "His company"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! Models must be presented and validated by companions of the same trade in order to validate the skills of the young itinerant.",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 11: What is this event called?",
+                "choiceAnswers": [
+                    "Baptism ceremony",
+                    "Patron saint festival",
+                    "Integration party",
+                    "Weekend at the sea"
+                ],
+                "correctAnswers": [
+                    "Patron saint festival"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! The patron saint festivals are an opportunity for companions and itinerants to meet once a year. These festivals are national and specific to each trade society.",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 12: The mother of the Carpenters, Cabinetmakers, and Locksmiths Companions is the same person, as they are one and the same society! What is the current mother's name of Limoges?",
+                "choiceAnswers": [
+                    "Joséphine Besse",
+                    "Josy Bellay",
+                    "Josiane Bombaud",
+                    "Josy Besse"
+                ],
+                "correctAnswers": [
+                    "Josy Besse"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! You can meet the mother of the Limoges Companions every day at the restaurant La Table des Compagnons!",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 13: I am a young companion joiner, try to guess which one belongs to me.",
+                "choiceAnswers": [
+                    "assets/img/img6.png",
+                    "assets/img/img9.png",
+                    "assets/img/img8.png",
+                    "assets/img/img7.png"
+                ],
+                "correctImageAnswers": [
+                    "assets/img/img7.png"
+                ],
+                "type": "image",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! Three colors exist according to the grade. For joiners: .",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 14: Among these canes, can you find the one of a blacksmith?",
+                "choiceAnswers": [
+                    "assets/img/img10.png",
+                    "assets/img/img11.png",
+                    "assets/img/img12.png",
+                    "assets/img/img13.png"
+                ],
+                "correctImageAnswers": [
+                    "assets/img/img12.png"
+                ],
+                "type": "image",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! The cane was once the support object of the Tour de France, as it was done... ON FOOT!",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 15: Upon arrival, I am lucky to have as a boss, a companion joiner. Today joiners are rare! For his reception, he made a table in 2003, what is its particularity?",
+                "choiceAnswers": [
+                    "It's round",
+                    "There is a judoka",
+                    "It has geometric figures",
+                    "It is made of ebony"
+                ],
+                "correctAnswers": [
+                    "It has geometric figures"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! Reception masterpieces - to become a companion - have the particularity of being chosen by their maker. Each masterpiece represents the personality of its creator!",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 16: In 2004, a carpenter was received as a companion. We are lucky to have before our eyes the two major stages: the full-scale drawing - a pattern - and the model. How many colors are there on this pattern?",
+                "choiceAnswers": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "correctAnswers": [
+                    "3"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! Note that originally, no colors existed! They were added to help visitors understand the layout.",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 17: In this postcard, I write many details about the course of this past year. What are they?",
+                "choiceAnswers": [
+                    "The stress",
+                    "The attribution of my companion name",
+                    "The validation of the project",
+                    "The reception during a patron saint festival"
+                ],
+                "correctAnswers": [
+                    "The stress",
+                    "The attribution of my companion name",
+                    "The validation of the project",
+                    "The reception during a patron saint festival"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! Yes, all these proposals are correct! And many more would be needed to describe this unique experience!",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 18: The painter made a dedication to two cities dear to him: the first city of his Tour and his last one. Can you recognize them?",
+                "choiceAnswers": [
+                    "Paris",
+                    "Limoges",
+                    "Lyon",
+                    "Grenoble"
+                ],
+                "correctAnswers": [
+                    "Paris",
+                    "Limoges"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! To represent Limoges, he chose to paint the headquarters of the Limoges Companions surmounted by the Saint-Etienne cathedral. This same view you can observe when leaving the museum!",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 19: I stay in Limoges for another year. I am 'the roller', I accompany the youngest. During this period, I discover the Limoges Companions Museum! How many masterpiece hats are there?",
+                "choiceAnswers": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "correctAnswers": [
+                    "2"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! Hat off to the artist! There is a specific hat for the rollers: it is the top hat! (Photo)",
+                "type": "text",
+                "requiresAnswer": false
+            },
+            {
+                "text": "Question 20: Here is an original and imposing masterpiece: a wine cellar inspired by picnic baskets. What are the wood species used?",
+                "choiceAnswers": [
+                    "Walnut - ash - brass",
+                    "Walnut - rosewood - ash",
+                    "Rosewood - walnut - ash"
+                ],
+                "correctAnswers": [
+                    "Walnut - ash - brass"
+                ],
+                "type": "multipleChoice",
+                "requiresAnswer": true
+            },
+            {
+                "text": "Correct answer! Congratulations! The quiz is over! You've been perfect! Like any worthy companion, one last question follows to give you your own budding companion name!",
+                "type": "text",
+                "requiresAnswer": false
+            }
+        ]
+    }
+}

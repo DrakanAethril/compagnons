@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297744071900",
+    "project_id": "companions-f72a5",
+    "storage_bucket": "companions-f72a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297744071900:android:a05d17411ee5bede408819",
+        "android_client_info": {
+          "package_name": "com.example.comp87"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrcg4qnxlzIzyiaiVK-BV8eMQnEZvU75s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297744071900:android:185f575b7d16337d408819",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrcg4qnxlzIzyiaiVK-BV8eMQnEZvU75s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

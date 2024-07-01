@@ -1,0 +1,36 @@
+name: comp87
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter_translate: ^4.0.0
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.5.0
+  cloud_firestore: ^4.14.0
+  confetti: ^0.7.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  
+flutter:
+  uses-material-design: true
+  assets:
+
+    - assets/i18n/ae.json
+    - assets/i18n/af.json
+    - assets/i18n/ne.json
+    - assets/i18n/nf.json
+    - assets/img/
+    - assets/img/bob.jpg
+    - assets/data/compagnons.json
