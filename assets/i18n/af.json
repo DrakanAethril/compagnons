@@ -43,7 +43,8 @@
             {
                 "text": "Bonne réponse ! Le Tour de France est un périple où le futur compagnon change de ville chaque année.",
                 "type": "text",
-                "requiresAnswer": false
+                "requiresAnswer": false,
+                "nextLabel" : "Etape suivante"
             },
             {
                 "text": "Question 2 : La première ville à m'accueillir fut Toulouse. Je suis avec une trentaine d'autres jeunes, divers métiers sont représentés : charpentier, menuisier, ébéniste, plombier, boulanger et le meilleur : couvreur ! Parmi ces photos, quelle est la maquette qui a été faite par un couvreur ?",
@@ -62,12 +63,14 @@
             {
                 "text": "Bonne réponse ! La mission du couvreur ? Installer la toiture et les éléments d'évacuation des eaux de pluie.",
                 "type": "text",
-                "requiresAnswer": false
+                "requiresAnswer": false,
+                "nextLabel" : "Etape suivante"
             },
             {
                 "text": "L'année est passée à toute vitesse, nous arrivons déjà en juin, le moment de changer de ville. Je profite de ce moment pour envoyer une nouvelle carte postale à ma grand-mère, ça lui fait toujours plaisir.",
                 "type": "text",
-                "requiresAnswer": false
+                "requiresAnswer": false,
+                "nextLabel" : "Etape suivante"
             },
             {
                 "text": "Question 3 : Vous trouverez au mur cette fameuse carte postale. Qu'est-ce que je retiens de cette première année ? (Deux bonnes réponses)",
@@ -87,12 +90,14 @@
             {
                 "text": "Bonne réponse ! Les compagnons sont une grande famille !",
                 "type": "text",
-                "requiresAnswer": false
+                "requiresAnswer": false,
+                "nextLabel" : "Etape suivante"
             },
             {
                 "text": "Je quitte mon camarade de chambre, mon frère de cœur et de labeur. Il n'est pas couvreur mais nous pouvons utiliser les mêmes matériaux : C'est un plombier.",
                 "type": "text",
-                "requiresAnswer": false
+                "requiresAnswer": false,
+                "nextLabel" : "Etape suivante"
             },
             {
                 "text": "Question 4 : Les plombiers font eux aussi des maquettes. Quel est le matériel principal de cette maquette ? Indice, la gare de Limoges en est recouverte !  (Photo)",
@@ -111,15 +116,17 @@
             {
                 "text": "Bonne réponse ! Savez-vous que le cuivre change de couleur à l'oxydation ? C'est pour cette raison que la toiture de la gare est verte !",
                 "type": "text",
-                "requiresAnswer": false
+                "requiresAnswer": false,
+                "nextLabel" : "Etape suivante"
             },
             {
                 "text": "Me voilà désormais arrivé dans la seconde ville de mon Tour de France : Mouchard dans le Jura. Vous y trouverez le lycée des Compagnons ! Mouchard est le lieu d'excellence pour découvrir les valeurs des compagnons ! J'y partage ma chambre avec un peintre ! Cette formation plait énormément aux graphistes en herbe !",
                 "type": "text",
-                "requiresAnswer": false
+                "requiresAnswer": false,
+                "nextLabel" : "Etape suivante"
             },
             {
-                "text": "Question 5 : Vous pouvez trouver plusieurs œuvres réalisées par des Peintres en bâtiment. L'une d'elle représente l'emblème de la ville de Limoges serait-vous le reconnaître ?",
+                "text": "Question 5 : Vous pouvez trouver plusieurs œuvres réalisées par des Peintres en bâtiment. L'une d'elle représente l'emblème de la ville de Limoges saurez-vous le reconnaître ?",
                 "choiceAnswers": [
                     "assets/img/img17.png",
                     "assets/img/img16.png",
@@ -135,12 +142,14 @@
             {
                 "text": "Bonne réponse ! Cet emblème représente les flammes des fours nécessaires à la fabrication de la porcelaine et des émaux. Limoges est la capitale des Arts du feu !",
                 "type": "text",
-                "requiresAnswer": false
+                "requiresAnswer": false,
+                "nextLabel" : "Etape suivante"
             },
             {
             "text": "A Mouchard, les métiers du bois sont mis à l'honneur. Observez et trouvez « l'ouvrage d'études » réalisé par un jeune aspirant charpentier.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 6 : D'après toi, quel est le but de celui-ci ?",
@@ -164,7 +173,8 @@
         {
             "text": "N'oublions pas ceux qui débutent chaque chantier : les maçons ! Les maçons ont une forte identité en Limousin, notamment les maçons de la Creuse ! Ils ont largement travaillé à bâtir Paris !",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 7 : Que représente ce chef d'œuvre réalisé par un itinérant Maçon (photo) ?",
@@ -183,12 +193,14 @@
         {
             "text": "Bonne réponse ! L'arc-boutant sert à soutenir les murs par l'extérieur. Vous pourrez en observer à deux pas du musée en vous promenant dans le parc et contempler la cathédrale.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": " Voilà maintenant deux ans que je suis parti sur le Tour, fort de ses deux premières années c'est avec beaucoup d'enthousiasme que je pose mes valises à Bordeaux ! Je m’empresse d’écrire cette nouvelle à ma grand-mère.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 8 : Mes premiers cours me plaisent tellement que j'oublie de parler de la ville ! Quelle est leur particularité ?",
@@ -207,12 +219,14 @@
         {
             "text": "Bonne réponse ! Les itinérants du Tour de France sont des professionnels qui travaillent la journée comme tous salariés. Les cours de perfectionnements ont donc lieu lors de leur repos : les soirs et les week-ends.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": " Cette année, je retrouve mon camarade maçon de Mouchard, il est sur la fin de son Tour et taille sa maquette de réception.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 9 : Voici maintenant cette maquette, a-t-elle été réalisée par un seul itinérant ? (photo)",
@@ -229,12 +243,14 @@
         {
             "text": "Bonne réponse ! Cette maquette a la particularité d'avoir été faite à plusieurs. Aujourd'hui les maquettes se font le plus souvent de manière individuelle.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": " Cette année, je décide de présenter ma maquette pour valider le premier échelon afin de devenir Compagnon.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 10 : Devant vous se trouve un ouvrage façonné par un itinérant couvreur, à votre avis a qui était-elle destinée ?",
@@ -253,12 +269,14 @@
         {
             "text": "Bonne réponse ! Les maquettes doivent être présentées et validées par les compagnons du même métier afin de valider les compétences du jeune itinérant.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Le temps de présenter ma maquette arrive. Cette présentation a lieu à une date précise : celle de l'ascension.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 11 : Comment s'appelle cet événement ?",
@@ -277,12 +295,14 @@
         {
             "text": "Bonne réponse ! Les fêtes patronales sont l'occasion pour les compagnons et les itinérants de se retrouver une fois par an. Ces fêtes propres à chaque société de métiers.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": " Ma maquette est validée, je suis alors reconnu comme aspirant. En rentrant au siège pour retrouver ma chambre, la gardienne du lieu tient à me féliciter : c'est la mère. Au sein de chaque maison des compagnons se trouve une mère. Garante de la cohésion et de l’accueil des jeunes itinérants.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 12 : Sur le tableau de photos en noir et blanc, pouvez-vous retrouver en quelle année la mère des compagnons de Bordeaux a été reçue ? ",
@@ -301,12 +321,14 @@
         {
             "text": "Bonne réponse! La mère de Bordeaux se nommait alors : Madame Lassalle, elle a été reçue Mère des Charpentiers lors de la Saint-Joseph, fête patronale des charpentiers.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Lors d'une adoption, chaque jeune aspirant se voit alors remettre une écharpe au couleur de sa société ! ",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 13 : Je suis jeune compagnon couvreur à toi de deviner laquelle me revient.",
@@ -325,12 +347,14 @@
         {
             "text": "Bonne réponse ! Botons que trois couleurs existent selon le grade.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Vous vous trouvez désormais devant un objet emblématique des compagnons, la canne ! Comme l'écharpe, elle a une place très importante dans la symbolique des compagnons.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 14 : Parmi ces cannes seras-tu retrouver celle d'un maréchal-ferrant ?",
@@ -349,12 +373,14 @@
         {
             "text": "Bonne réponse ! La canne était autrefois l'objet de soutien du Tour de France, car il se faisait… A PIED !",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": " Mon périple continu et j'arrive dans ma quatrième ville d'adoption Lyon ! Aujourd'hui le Tour ne se fait plus à pied, sinon j'aurais parcouru 512km, soit 5 jours de marche sans arrêt.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 15 :  Arrivée à bon port, j'ai la chance d'avoir comme patron, un compagnon ébéniste. Aujourd'hui les ébénistes sont rares ! Pour sa réception, il a réalisé une table en 2003, quelle est sa particularité ?",
@@ -373,12 +399,14 @@
         {
             "text": "Bonne réponse ! Les chefs-d'œuvre de réception - pour devenir compagnon - ont la particularité d'être choisis par la personne qui le fait. Chaque chef-d'œuvre représente la personnalité de son créateur !",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Plus proche de mon métier de couvreur, mais toujours un métier du bois, la charpente est essentielle à tout bâtiment.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 16 : En 2004, un charpentier a été reçu compagnon. Nous avons la chance d'avoir sous nos yeux les deux grandes étapes : le dessin à échelle réelle - une épure - et la maquette. Combien y a-t-il de couleurs sur cette épure ?",
@@ -397,12 +425,14 @@
         {
             "text": "Bonne réponse ! Notons qu'à l'origine aucune couleur n'existait ! Elles ont été rajoutées afin d'aider à comprendre le tracé.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Me voici arrivé dans ma cinquième ville : Limoges. Ce sera ma dernière ville, c'est l'année où je dois tailler ma réception ! C'est une mise à l'épreuve et un challenge aussi bien humain que technique ! Je continue d'envoyer des nouvelles à ma grand-mère par carte postale, l'attente du courrier fait travailler la patience !",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 17 : Dans cette carte postale, j'écris de nombreux détails concernant le déroulé de cette dernière année. Lesquels est-ce ?",
@@ -424,12 +454,14 @@
         {
             "text": "Bonne réponse ! Oui toutes ces propositions sont justes ! Et il en faudrait bien plus pour décrire cette expérience unique !",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": " Les maquettes de réception représentent le passage, du jeune itinérant au compagnon reçu, de l'apprentissage à la reconnaissance du savoir-faire technique. Vous pouvez observer une colonne en plâtre sur son piédestal en contre-plaqué peinte. Cette maquette de réception a été reçue en 2017.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 18 : Le peintre a fait une dédicace à deux villes qui lui sont chères : la première ville de son Tour et sa dernière. Saurez-vous les reconnaître ?",
@@ -449,12 +481,14 @@
         {
             "text": "Bonne réponse ! Pour représenter Limoges, il a choisi de peindre le siège des Compagnons de Limoges surmonté par la cathédrale Saint-Etienne. C'est cette même vue que vous pourrez observer en sortant du musée !",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "La vie d'un compagnon ne s'arrête pas à sa réception. Nous appartenons à une famille, c'est avec plaisir que nous offrons aux plus jeunes ceux que nous avons appris. Nous rendons ainsi deux années que nous consacrons aux itinérants.",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 19 : Je reste à Limoges une année de plus. Je suis « le rouleur », j'accompagne les plus jeunes. Durant cette période, je découvre le musée des Compagnons de Limoges ! Combien y a-t-il de chef d'œuvres en forme de chapeau ?",
@@ -473,12 +507,14 @@
         {
             "text": "Bonne réponse ! Chapeau l'artiste ! Il existe un chapeau spécifique aux rouleurs : c'est le chapeau haut-de-forme !",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Des années sont passées, je suis un compagnon sédentaire à Bordeaux. J'ai conservé les valeurs de partage et de solidarité, j'apprécie toujours autant de retrouver mes frères et sœurs compagnons autour d'un bon bordeaux !",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Etape suivante"
         },
         {
             "text": "Question 20 : Voici un chef d'œuvre original et imposant : une cave à vin s'inspirant des malles de pique-nique. Quelles sont les essences de bois utilisées ?",
@@ -497,7 +533,8 @@
         {
             "text": "Bonne réponse ! Félicitations ! Le quizz est terminé ! Vous avez été parfait ! Comme tout digne compagnon, une dernière question suit afin de vous donner votre propre nom de compagnon en herbe !",
             "type": "text",
-            "requiresAnswer": false
+            "requiresAnswer": false,
+            "nextLabel" : "Découvrir mon nom !"
         }
     ]
 }

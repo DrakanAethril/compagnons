@@ -3,7 +3,7 @@
         "title": "Compagnons 87"
     },
     "message": {
-        "welcome": "Welcome to the Flutter Translate example app!"
+        "welcome": "Bienvenue !"
     },
     "presentation": {
         "welcome": "Bienvenue",
@@ -96,7 +96,7 @@
             {
                 "text": "Je quitte mon frère de cœur et de labeur, celui qui m'a soutenue toute cette première année. Il n'est pas ébéniste : C'est un plombier. Rendez-vous près d'une de ses oeuvres !",
                 "type": "text",
-                "textImage": "assets/img/logo.png",
+                "textImage": "assets/img/rea_cuivre.jpeg",
                 "requiresAnswer": false,
                 "nextLabel" : "J'y suis !"
             },
@@ -127,7 +127,7 @@
                 "nextLabel" : "Etape suivante"
             },
             {
-                "text": "Question 5 : Vous pouvez trouver plusieurs œuvres réalisées par des Peintres en bâtiment. L'une d'elle représente l'emblème de la ville de Limoges serait-vous le reconnaître ?",
+                "text": "Question 5 : Vous pouvez trouver plusieurs œuvres réalisées par des Peintres en bâtiment. L'une d'elle représente l'emblème de la ville de Limoges saurez-vous le reconnaître ?",
                 "choiceAnswers": [
                     "assets/img/img17.png",
                     "assets/img/img16.png",
@@ -175,7 +175,7 @@
         {
             "text": "N'oublions pas ceux qui débutent chaque chantier : les maçons ! Les maçons ont une forte identité en Limousin, notamment les maçons de la Creuse ! Ils ont largement travaillé à bâtir Paris ! Rendez-vous près de cette réalisation.",
             "type": "text",
-            "textImage": "assets/img/logo.png",
+            "textImage": "assets/img/rea_arc.jpeg",
             "requiresAnswer": false,
             "nextLabel" : "J'y suis !"
         },
@@ -228,7 +228,7 @@
         {
             "text": " Cette année, je suis retrouve un camarade maçon d'Avignon, il est sur la fin de son Tour et taille sa maquette de réception. Rendez-vous à cette réalisation.",
             "type": "text",
-            "textImage": "assets/img/logo.png",
+            "textImage": "assets/img/rea_escalier.jpeg",
             "requiresAnswer": false,
             "nextLabel" : "J'y suis !"
         },
@@ -538,7 +538,7 @@
             "text": "Bonne réponse ! Félicitations ! Le quizz est terminé ! Vous avez été parfait ! Comme tout digne compagnon, une dernière question suit afin de vous donner votre propre nom de compagnon en herbe !",
             "type": "text",
             "requiresAnswer": false,
-                "nextLabel" : "Découvrir mon nom !"
+            "nextLabel" : "Découvrir mon nom !"
         }
     ]
 }
