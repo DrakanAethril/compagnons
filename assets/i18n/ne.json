@@ -301,7 +301,7 @@
                 "requiresAnswer": true
             },
             {
-                "text": "Correct answer! Three colors exist according to the grade. For joiners: .",
+                "text": "Correct answer! Three colors exist according to the grade.",
                 "type": "text",
                 "requiresAnswer": false,
                 "nextLabel" : "Next step"
@@ -425,7 +425,7 @@
                 "requiresAnswer": true
             },
             {
-                "text": "Correct answer! Hat off to the artist! There is a specific hat for the rollers: it is the top hat! (Photo)",
+                "text": "Correct answer! Hat off to the artist! There is a specific hat for the rollers: it is the top hat!",
                 "type": "text",
                 "requiresAnswer": false,
                 "nextLabel" : "Next step"

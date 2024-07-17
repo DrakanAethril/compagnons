@@ -342,7 +342,7 @@
                 "requiresAnswer": true
             },
             {
-                "text": "Good answer! Three colors exist according to the rank. For roofers:",
+                "text": "Good answer! Three colors exist according to the rank",
                 "type": "text",
                 "requiresAnswer": false,
                 "nextLabel" : "Next step"
